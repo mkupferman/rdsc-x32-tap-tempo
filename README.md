@@ -14,6 +14,8 @@ Set the Stereo Delay effect's delay time on a networked Behringer X32 (or Midas 
 
 ## Installation/Setup
 
+[Here is a video](https://youtu.be/Kkz3DGDgrbU) demonstrating this script.
+
 ### X32 setup
 
 1. Ensure the X32 mixer is on a network and reachable from the computer running ShowCockpit.
